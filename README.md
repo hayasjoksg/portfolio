@@ -8,7 +8,7 @@ https://tutorial-qr7k.onrender.com
 
 
 
-こちらがpythonのフレームワークであるdjangoを使用して作りました。
-ユーザーが動画を投稿したり、みたりできるwebアプリケーションです。
+こちらがpythonのフレームワークであるDjangoを使用して作りました。
+ユーザーが動画を投稿したり、見たりすることができるwebアプリケーションです。
 
 https://jamgi.pythonanywhere.com
